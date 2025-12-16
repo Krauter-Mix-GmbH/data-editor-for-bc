@@ -12,16 +12,16 @@
   "logo": "./logo.png",
   "dependencies": [],
   "screenshots": [],
-  "platform": "26.0.0.0",
-  "application": "26.0.0.0",
+  "platform": "23.0.0.0",
+  "application": "23.5.0.0",
   "idRanges": [
     {
-      "from": 81000,
-      "to": 81100
+      "from": 51200,
+      "to": 60000
     }
   ],
   "contextSensitiveHelpUrl": "https://vld-bc.com/",
-  "runtime": "15.0",
+  "runtime": "12.1",
   "features": ["TranslationFile"],
   "resourceExposurePolicy":
     {

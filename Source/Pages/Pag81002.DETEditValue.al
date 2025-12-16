@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 //
 // Original author — Volodymyr Dvernytskyi (Data Editor Tool)
-page 81002 "DET Edit Value"
+page 59002 "DET Edit Value"
 {
 
     Caption = 'Edit Value';

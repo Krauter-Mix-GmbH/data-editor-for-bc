@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 //
 // Original author — Volodymyr Dvernytskyi (Data Editor Tool)
-page 81003 "DET Run Editor From Filter"
+page 59003 "DET Run Editor From Filter"
 {
     //Used for call Data Editor directly without Dialog window
     //Example of usage call page via link: 

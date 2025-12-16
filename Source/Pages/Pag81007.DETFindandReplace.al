@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 //
 // Original author — Volodymyr Dvernytskyi (Data Editor Tool)
-page 81007 "DET Find and Replace"
+page 59007 "DET Find and Replace"
 {
     ApplicationArea = All;
     Caption = 'Find and Replace';

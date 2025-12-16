@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 //
 // Original author — Volodymyr Dvernytskyi (Data Editor Tool)
-page 81001 "DET Data Editor"
+page 59001 "DET Data Editor"
 {
     Caption = 'Data Editor';
     PageType = StandardDialog;

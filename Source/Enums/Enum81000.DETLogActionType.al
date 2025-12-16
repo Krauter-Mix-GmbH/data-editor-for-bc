@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 //
 // Original author — Volodymyr Dvernytskyi (Data Editor Tool)
-enum 81000 "DET Log Action Type"
+enum 59000 "DET Log Action Type"
 {
     Extensible = true;
 

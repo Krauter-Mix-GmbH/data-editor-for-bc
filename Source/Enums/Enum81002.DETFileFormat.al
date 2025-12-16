@@ -2,7 +2,7 @@
 // SPDX-License-Identifier: MIT
 //
 // Original author — Volodymyr Dvernytskyi (Data Editor Tool)
-enum 81002 "DET File Format"
+enum 59002 "DET File Format"
 {
     Extensible = true;
 
